@@ -333,6 +333,15 @@ ol ol {
   justify-content: center;
   text-align: center;
 }
+.avatar {
+  border-radius: 50%;
+  width: 150px; /* Adjust size as needed */
+  height: 150px;
+  margin-bottom: 20px; /* Space between avatar and title */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .content {
   display: flex;
